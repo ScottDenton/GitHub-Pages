@@ -67,5 +67,5 @@ The process for creating a new project page is even simpler than creating your i
 4. Once you have selected a theme, the readme.md file will open for you to edit. 
 This is where you add all of your information that you want to be in your page. 
 
-5. Commit your changes at the bottom of the page and go to http://username.github.io/repository 
+5. Commit your changes at the bottom of the page and go to http://username.github.io/repository (remembering that the username might not be case sensitive in the URL but the repository name IS case sensitive)
 
