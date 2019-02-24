@@ -16,7 +16,7 @@ One of the many services GitHub provides on its free accounts is something calle
 
 1. Create a GitHub repository named ‘username.github.io’ ensuring your username is spelt exactly as it is on your account. For example, my GitHub username is ‘ScottDenton’ so my repository will be as shown below. Note it is case sensitive.
 
-![Repository name]('images/repo_name.png')
+![Repository name]['images/repo_name.png']
 
 2. Within your repository create an ‘index.html’ file. This will be your main home page for your site. You may have other .html files within your site but no matter how it is set up within your repository GitHub will always show the first index.html file it finds as your home page.
 
