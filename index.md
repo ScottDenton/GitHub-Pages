@@ -30,12 +30,12 @@ If you find that you don’t like having to use your GitHub username as your sit
   - Before configuring/finalizing the purchase of your custom domain you must add your custom domain to your GitHub pages site through the settings. Go to your repo, into settings and enter your custom domain and click save.
   - Then finalize your domain purchase and GitHub’s magic should do the rest for you.
 
+  ![custom domain](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/custom%20domain.png)
 
+### Don't like CSS ?
+If you don’t quite feel that your experienced enough to work with html and css or simply dont like it...don’t worry, because Jekyll can help you with that.
 
-  ### Dont like CSS ?
-  If you don’t quite feel that your experienced enough to work with html and css or simply dont like it...don’t worry, because Jekyll can help you with that.
-
-  Jekyll is a project that initially originated on GitHub, run entirely by a team of volunteers. It is completely open source, meaning anyone can fork their repository and use the code any way they wish.
+Jekyll is a project that initially originated on GitHub, run entirely by a team of volunteers. It is completely open source, meaning anyone can fork their repository and use the code any way they wish.
 
 Jekyll is designed to allow users the ability to create their own static webpages without any pre existing knowledge of html or CSS. You can simply type everything in markdown and let Jekyll do all the hard work converting it into the correct html and CSS format.
 
@@ -43,11 +43,15 @@ Jekyll is ideal for blogging as it allows the user to easily add new posts to th
 
 To download Jekyll and create a new site it only requires 4 simple steps.
 
+![Jekyll Instructions](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/jekyll%20steps.png)
+
 If you are afraid that your site will look boring and the same as everyone else, do not fear because GitHub and Jekyll have you covered.
 
 Once you’ve added all of your posts and information to your page and pushed it back to your GitHub repository you can then move on to picking a pre-built theme.
 
 Simply go into your repositories settings and scroll down to the Theme Chooser and click Choose a theme. This will present you with multiple options to choose from, including giving you the ability to preview each theme in your browser.
+
+![Choose a Theme](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/theme.png)
 
 But remember this will only work if you have used Jekyll to create your site and won’t work if you have created the files from scratch yourself.
 
