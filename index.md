@@ -38,7 +38,7 @@ Jekyll is a project that initially originated on GitHub, run entirely by a team 
 
 Jekyll is designed to allow users the ability to create their own static webpages without any pre existing knowledge of html or CSS. You can simply type everything in markdown and let Jekyll do all the hard work converting it into the correct html and CSS format.
 
-Jekyll is ideal for blogging as it allows the user to easily add new posts to their site by simply updating a markdown file without the need for a server to save everything to, as it is all be stored on your GitHub repository.
+Jekyll is ideal for blogging as it allows the user to easily add new posts to their site by simply updating a markdown file without the need for a server to save everything to, as it is all stored on your GitHub repository.
 
 To download Jekyll and create a new site it only requires 4 simple steps.
 <!--
@@ -49,15 +49,15 @@ If you are afraid that your site will look boring and the same as everyone else,
 Once you’ve added all of your posts and information to your page and pushed it back to your GitHub repository you can then move on to picking a pre-built theme.
 
 Simply go into your repositories settings and scroll down to the Theme Chooser and click Choose a theme. This will present you with multiple options to choose from, including giving you the ability to preview each theme in your browser.
-
-![Choosing a Theme](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/theme.png)
+<!--
+![Choosing a Theme](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/theme.png) -->
 
 But remember this will only work if you have used Jekyll to create your site and won’t work if you have created the files from scratch yourself.
 
 ### Project pages
-Once you have created your initial username.github.io site that’s when the fun really begins. That is thanks to the unlimited amount of project sites that GitHub provides you with your free site.
+Once you have created your initial username.github.io site that’s when the fun really begins. That is thanks to the unlimited amount of project pages that GitHub provides you.
 
-Project sites allow you to create as many different static pages as you want. The URL for these sites is simply the name of your repository appended to your username.github.io URL.
+Project pages allow you to create as many different static pages as you want. The URL for these sites is simply the name of your repository appended to your username.github.io URL.
 
 For example, I created a repository with the name ‘github-pages-test’ giving me the URL of https://scottdenton.github.io/github-pages-test/
 
@@ -72,4 +72,6 @@ The process for creating a new project page is even simpler than creating your i
 4. Once you have selected a theme, the readme.md file will open for you to edit.
 This is where you add all of your information that you want to be in your page.
 
-5. Commit your changes at the bottom of the page and go to http://username.github.io/repository (remembering that the username might not be case sensitive in the URL but the repository name IS case sensitive)
+5. Commit your changes at the bottom of the page and go to http://username.github.io/repository (remembering that the username might not be case sensitive in the URL but the repository name IS case sensitive).
+
+Once you have done that the whole web is at your fingertips. If you would like to see this blog on GitHub pages [click this link](https://scottdenton.github.io/GitHub-Pages/)
