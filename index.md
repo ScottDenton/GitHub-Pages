@@ -2,21 +2,20 @@
 
 More often then not, when someone starts to learn the basics of web design it is normally by starting with HTML, CSS and Javascript. Sooner or later, after a little bit/ a lot of practice you may find yourself designing and creating all of these different sites that you want to show off to the world. But how do you actually get these from your text editor onto the actual internet.
 
-There are a number of ways to get your first web page online each with varying degrees of difficulty.
+There are a number of ways to get your first web page online each with varying degrees of difficulty. Today I'm going to talk about one of the easiest ways to start building your web presence.
 
 For many budding web designers one of the first steps is to find somewhere to safely store all of your work, with the most popular option being GitHub.
 
-If you have already started using GitHub your already one step towards hosting your first web page online, and if not it’s a simple as signing up for a new account.
-
+If you have already started using GitHub your already one step towards hosting your first web page online, and if not it’s as simple as signing up for a new account.
 
    [GitHub](https://github.com/)
 
 ### Github Pages
-One of the many services GitHub provides on its free accounts is something called GitHub pages. GitHub pages allows you to turn one GitHub repository into a real-life website and it is surprisingly simple to do so by following the below steps.
+One of the services GitHub provides for its free accounts is something called GitHub pages. GitHub pages allows a user to turn one GitHub repository into a real-life website and it is surprisingly simple to do so by following the below steps.
 
 1. Create a GitHub repository named ‘username.github.io’ ensuring your username is spelt exactly as it is on your account. For example, my GitHub username is ‘ScottDenton’ so my repository will be as shown below. Note it is case sensitive.
-
-![Repo name](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/repo_name.png)
+<!--
+![Repo name](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/repo_name.png) -->
 
 2. Within your repository create an ‘index.html’ file. This will be your main home page for your site. You may have other .html files within your site but no matter how it is set up within your repository GitHub will always show the first index.html file it finds as your home page.
 
@@ -30,7 +29,7 @@ If you find that you don’t like having to use your GitHub username as your sit
   - Before configuring/finalizing the purchase of your custom domain you must add your custom domain to your GitHub pages site through the settings. Go to your repo, into settings and enter your custom domain and click save.
   - Then finalize your domain purchase and GitHub’s magic should do the rest for you.
 
-  ![custom domain](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/custom%20domain.png)
+  <!-- ![example custom domain](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/custom%20domain.png) -->
 
 ### Don't like CSS ?
 If you don’t quite feel that your experienced enough to work with html and css or simply dont like it...don’t worry, because Jekyll can help you with that.
@@ -42,8 +41,8 @@ Jekyll is designed to allow users the ability to create their own static webpage
 Jekyll is ideal for blogging as it allows the user to easily add new posts to their site by simply updating a markdown file without the need for a server to save everything to, as it is all be stored on your GitHub repository.
 
 To download Jekyll and create a new site it only requires 4 simple steps.
-
-![Jekyll Instructions](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/jekyll%20steps.png)
+<!--
+![Jekyll Instructions](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/jekyll%20steps.png) -->
 
 If you are afraid that your site will look boring and the same as everyone else, do not fear because GitHub and Jekyll have you covered.
 
@@ -51,7 +50,7 @@ Once you’ve added all of your posts and information to your page and pushed it
 
 Simply go into your repositories settings and scroll down to the Theme Chooser and click Choose a theme. This will present you with multiple options to choose from, including giving you the ability to preview each theme in your browser.
 
-![Choose a Theme](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/theme.png)
+![Choosing a Theme](https://github.com/ScottDenton/GitHub-Pages/blob/master/images/theme.png)
 
 But remember this will only work if you have used Jekyll to create your site and won’t work if you have created the files from scratch yourself.
 
